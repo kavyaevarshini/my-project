@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"script"
+			],
+			[
+				"shopp",
+				"shopping_cart"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"p",
+				"products"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"d",
+				"details-1"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"background-",
+				"background-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"backgrou",
+				"background-attachment\tproperty"
+			],
+			[
+				"ovw",
+				"overflow\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"mo",
+				"mobileerr"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"na",
+				"nameerr"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"em",
+				"emailerr"
+			],
+			[
+				"emai",
+				"email"
+			],
+			[
+				"pr",
+				"preg_match"
+			],
+			[
+				"name",
+				"nameerr"
+			],
+			[
+				"mob",
+				"mobile"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"tan",
+				"tankVolume"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"fo",
+				"form-control"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"de",
+				"decision"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ass",
+				"assign"
+			],
+			[
+				"table",
+				"table_password"
+			],
+			[
+				"tab",
+				"table_password"
+			],
+			[
+				"tabl",
+				"table_password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ta",
+				"table_users"
+			],
+			[
+				"mysql_ar",
+				"mysql_fetch_array"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/shopping_cart/index.php",
+			"settings":
+			{
+				"buffer_size": 3794,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/shopping_cart"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/redstone/details-modal-glasses.php",
+		"/C/xampp/htdocs/redstone/details-modal-picture.php",
+		"/C/xampp/htdocs/REDSTONE/images/pizza.jpg",
+		"/C/xampp/htdocs/redstone/css/details-modal-pizza.php",
+		"/C/xampp/htdocs/REDSTONE/images/IMG_20140912_122108.jpg",
+		"/C/xampp/htdocs/REDSTONE/images/image3.jpg",
+		"/C/xampp/htdocs/REDSTONE/images/image2.jpg",
+		"/C/xampp/htdocs/redstone/css/main",
+		"/C/xampp/htdocs/MyFirstWebsite/add.php",
+		"/C/xampp/htdocs/programs/p2.php",
+		"/C/xampp/htdocs/programs/p1.php",
+		"/C/xampp/htdocs/programs/date.php",
+		"/C/xampp/htdocs/programs/fact.php",
+		"/C/xampp/htdocs/programs/p3.php",
+		"/C/xampp/htdocs/programs/reverse.php",
+		"/C/xampp/htdocs/programs/n1.php",
+		"/C/xampp/htdocs/programs/fibb.php",
+		"/C/xampp/htdocs/MyFirstWebsite/homepage.php",
+		"/C/xampp/htdocs/MyFirstWebsite/checklogin.php",
+		"/C/xampp/htdocs/MyFirstWebsite/index.php",
+		"/C/xampp/htdocs/MyFirstWebsite/register.php",
+		"/C/xampp/htdocs/MyFirstWebsite/upload.php",
+		"/C/xampp/htdocs/MyFirstWebsite/index"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"shopping_cart"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"shop_cart"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/shopping_cart/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								680,
+								680
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
